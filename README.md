@@ -1,5 +1,3 @@
-# 
-
 <h1 align="left">Hello world!👋 I'm Victor :computer:</h1>
 <h4 align="left">A Programmer, an organism that turns caffeine and pizza into software.</h3>
 
