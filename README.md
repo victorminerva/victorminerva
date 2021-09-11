@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello world! I'm Victor👋:computer:
+
+![VICTOR MINERVA](https://user-images.githubusercontent.com/6899034/132965907-317c2c80-67e8-43d8-95d7-e526d8570143.png)
 
 <!--
 **victorminerva/victorminerva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
