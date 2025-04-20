@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="left">Hello world!👋 I'm Victor :computer:</h1>
+<h1 align="left">Hello world!👋 I'm Victor Minerva :computer:</h1>
 <!-- Subtitle -->
 <h4 align="left">A Programmer, an organism that turns caffeine and pizza into software.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorminerva&label=Profile%20views&color=0e75b6&style=flat" alt="victorminerva" /> </p>
